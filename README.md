@@ -1,5 +1,5 @@
 # fcc-random-quote-machine
-freeCodeCamp Front End Libraries Certification: Random Quote Machine made with React Js, CSS and API fetch request
+freeCodeCamp Front End Libraries Certification: Random Quote Machine made with React Js and API fetch request
 
 Challenge project made for Front End Libraries Certification at freeCodeCamp.
 
